@@ -1,6 +1,5 @@
 # Hi, I'm python junior developer
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=htw-lamer111&show_icons=true&theme=dark"/>
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=htw-lamer111&layout=compact"/>
 
